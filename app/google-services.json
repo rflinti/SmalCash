@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52717311972",
+    "project_id": "smalcash-3dce6",
+    "storage_bucket": "smalcash-3dce6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52717311972:android:06d98d42c99fc1343859f1",
+        "android_client_info": {
+          "package_name": "com.smalcash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyAnKOIdboMmZYzyPIu8rhWGg-PeQOF0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
